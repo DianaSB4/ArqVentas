@@ -9,6 +9,6 @@ package ModeloDAO;
  *
  * @author MAYRA
  */
-public class VentasDAO {
+public class DetalleDAO {
     
 }

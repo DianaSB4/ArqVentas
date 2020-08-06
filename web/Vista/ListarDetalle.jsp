@@ -1,6 +1,6 @@
 <%-- 
-    Document   : EditarVentas
-    Created on : 06/08/2020, 09:31:06 AM
+    Document   : ListarDetalle
+    Created on : 06/08/2020, 02:20:07 PM
     Author     : MAYRA
 --%>
 
